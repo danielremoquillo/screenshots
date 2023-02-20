@@ -1,1 +1,1 @@
-# screenshots
+Screenshots of my projects.
